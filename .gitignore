@@ -1,0 +1,34 @@
+# Candidate and application data
+salary_data.json
+*_BehavioralReport.pdf
+linkedin_Profile.pdf
+cv/main_*.*
+!cv/main_example.tex
+cv/*.txt
+cover_letters/cover_*.*
+cover_letters/Cover_*.*
+documents/cv/**
+documents/linkedin/**
+documents/diplomas/**
+documents/references/**
+documents/projects/**
+documents/applications/**
+documents/postings/**
+documents/interview/**
+job_search_tracker.csv
+gmail_sync/
+reports/
+company_research/*.json
+upskill/*.md
+**/upskill/report-*.md
+**/job_scraper/seen_jobs.json
+**/job_scraper/notion_sync.json
+**/job_scraper/*.md
+.claude/settings.local.json
+.env
+.env.*
+
+# Local tooling
+node_modules
+__pycache__/
+*.py[cod]
